@@ -5,7 +5,7 @@ These following criteria will be used when reviewing pull requests, features, an
 
 ### Components
 
-Components should not have tight dependencies on each other so that they are able to be used independently.
+Components should not have tight dependencies on each other so that they are able  asdasdfasdfto be used independently.
 The APIs for images and containers should be designed in a way that when used together the components have a natural flow but still be useful independently.
 
 An example for this design can be seen with the overlay filesystems and the container execution layer.
